@@ -1,0 +1,12 @@
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\bin\Debug\net6.0\Ejercicio 11.deps.json
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\bin\Debug\net6.0\Ejercicio 11.dll
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\bin\Debug\net6.0\Ejercicio 11.pdb
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 11.csproj.AssemblyReference.cache
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 11.AssemblyInfoInputs.cache
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 11.AssemblyInfo.cs
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 11.csproj.CoreCompileInputs.cache
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 11.dll
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\obj\Debug\net6.0\refint\Ejercicio 11.dll
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\obj\Debug\net6.0\Ejercicio 11.pdb
+C:\Users\lemar\source\repos\ConsoleApp1\Ejercicio 6\obj\Debug\net6.0\ref\Ejercicio 11.dll
