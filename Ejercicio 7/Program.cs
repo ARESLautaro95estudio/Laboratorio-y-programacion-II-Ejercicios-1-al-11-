@@ -7,7 +7,7 @@ namespace Ejercicio_7
     {
         static void Main(string[] args)
         {
-            int año_ingresado; int mes_ingresado; int dia_ingresado; 
+            int año_ingresado,mes_ingresado,dia_ingresado; 
 
             Console.WriteLine("Ingrese el año de su nacimiento");
             año_ingresado = int.Parse(Console.ReadLine());

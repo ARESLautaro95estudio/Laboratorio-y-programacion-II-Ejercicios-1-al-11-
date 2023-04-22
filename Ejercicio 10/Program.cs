@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            int numero_ingresado; string piramide = "*"; string espacios = "";
-            int cantidad_espacios;
+            int numero_ingresado,cantidad_espacios; ; string piramide = "*", espacios = "";
+            
 
             Console.WriteLine("ingrese el ancho de la piramide:");
             numero_ingresado = int.Parse(Console.ReadLine());

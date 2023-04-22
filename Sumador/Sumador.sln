@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumador", "Sumador.csproj", "{FBC77319-E900-433D-8755-B88234D78697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades sumador", "..\Entidades sumador\Entidades sumador.csproj", "{276C05DF-3C43-472D-881E-D4212556707B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC77319-E900-433D-8755-B88234D78697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC77319-E900-433D-8755-B88234D78697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC77319-E900-433D-8755-B88234D78697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC77319-E900-433D-8755-B88234D78697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276C05DF-3C43-472D-881E-D4212556707B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276C05DF-3C43-472D-881E-D4212556707B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276C05DF-3C43-472D-881E-D4212556707B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276C05DF-3C43-472D-881E-D4212556707B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F039A6D9-87EA-4B71-822E-90D4AF780DF2}
+	EndGlobalSection
+EndGlobal

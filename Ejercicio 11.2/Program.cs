@@ -6,19 +6,19 @@ namespace Ejercicio_11._2
     {
         static void Main(string[] args)
         {
-            int valores=0;
-            int min =10000;
-            int max = -100000;
-            int promedio;
-                
-            
+            int valores=0,min =1000,max =-100000,promedio; string val;
+
             for (int i = 0; i < 10; i++) {
                 Console.WriteLine("Ingrese un numero");
                 valores = int.Parse(Console.ReadLine());    
                 while (!Ejercicio_11.Validación.validar(valores, -100, 100))
                 {
                     Console.WriteLine("Ingrese un numero");
-                    int.TryParse(Console.ReadLine(),out valores);
+                    val = Console.ReadLine();
+                    valores = Convert.ToInt32(val);
+
+                    # int.TryParse(Console.ReadLine(),out valores);
+
                     if ((Ejercicio_11.Validación.validar(valores, -100, 100) == true))
                     {
                         if (valores < min)
